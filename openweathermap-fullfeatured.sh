@@ -35,8 +35,8 @@ get_duration() {
 
 }
 
-KEY="be28720bf8c93398bb0a14961c7c9927"
-CITY="Flagstaff"
+KEY="stuff"
+CITY="tennesee"
 UNITS="metric"
 SYMBOL="°"
 
